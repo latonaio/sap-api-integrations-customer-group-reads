@@ -1,0 +1,12 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-customer-group-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-customer-group-reads/SAP_API_Caller.(*SAPAPICaller).CustomerGroup",
+	"level": "INFO",
+	"message": [
+		{
+			"CustomerGroup": "01",
+			"to_Text": "http://100.21.57.120:8080/sap/opu/odata/sap/API_CUSTOMERGROUP_SRV/A_CustomerGroup('01')/to_Text"
+		}
+	],
+	"time": "2022-09-25T20:30:12+09:00"
+}

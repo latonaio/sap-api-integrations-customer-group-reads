@@ -1,0 +1,23 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-customer-group-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-customer-group-reads/SAP_API_Caller.(*SAPAPICaller).CustomerGroup",
+	"level": "INFO",
+	"message": [
+		{
+			"CustomerGroup": "01",
+			"Language": "DE",
+			"CustomerGroupName": "Industrie"
+		},
+		{
+			"CustomerGroup": "01",
+			"Language": "EN",
+			"CustomerGroupName": "Industry"
+		},
+		{
+			"CustomerGroup": "01",
+			"Language": "JA",
+			"CustomerGroupName": "産業コード"
+		}
+	],
+	"time": "2022-09-25T20:30:12+09:00"
+}

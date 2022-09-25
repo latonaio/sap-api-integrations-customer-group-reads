@@ -1,0 +1,13 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-customer-group-reads/SAP_API_Caller/caller.go#L109",
+	"function": "sap-api-integrations-customer-group-reads/SAP_API_Caller.(*SAPAPICaller).Text",
+	"level": "INFO",
+	"message": [
+		{
+			"CustomerGroup": "01",
+			"Language": "EN",
+			"CustomerGroupName": "Industry"
+		}
+	],
+	"time": "2022-09-25T20:34:48+09:00"
+}
